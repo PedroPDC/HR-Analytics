@@ -52,7 +52,7 @@ Explorar os dados, extrair resultados sobre a área de Recursos Humanos, respond
 ## 📄 Artigo
 
 Confira o artigo completo sobre o projeto para mais detalhes:
-[**PROJETO — Análise de Dados de Recursos Humanos, usando SQL**](link aqui)
+[**PROJETO — Análise de Dados de Recursos Humanos, usando SQL**](https://medium.com/@pedropdc/projeto-análise-de-dados-de-recursos-humanos-usando-sql-18170826fdb3)
 
 ---
 
